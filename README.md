@@ -16,3 +16,4 @@ dotnet add package Microsoft.VisualStudio.Web.CodeGeneration.Design dotnet add p
 #####// dotnet add package FluentValidation.AspNetCore
 #####// Packes For AutoMap  dotnet add package AutoMapper
 dotnet add package AutoMapper.Extensions.Microsoft.DependencyInjection
+#####// Packes For Identity dotnet add package Microsoft.AspNetCore.Identity.EntityFrameworkCore --version (it`s up to your dotnet version)
